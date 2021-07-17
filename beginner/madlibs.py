@@ -7,7 +7,3 @@ print(f"Subscribe to '{youtuber}'.")
 
 msg = f"Already subscribed to '{youtuber}'."
 print(msg)
-
-msg = f"Already subscribed to '{youtuber}'."
-print(msg)
-
